@@ -83,7 +83,8 @@
                                 <div class="col-12">
                                     <div class="card m-b-20">
                                         <div class="card-body">
-                                            <div id="aqui_tabla"></div>
+                                            <div id="aqui_tabla YES"></div>
+                                            <h1>Se Cambio el div</h1>
                                         </div>
                                     </div>
                                 </div>
